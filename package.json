@@ -1,0 +1,16 @@
+{
+  "name": "docker-nginx-sample",
+  "version": "0.1.0",
+  "description": "docker-nginx-sample 샘플 어플리케이션",
+  "main": "index.js",
+  "scripts": {
+    "npm start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WooYoung Moon<wymoon2690@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "uuid": "^2.0.2"
+  }
+}
